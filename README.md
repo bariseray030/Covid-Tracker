@@ -16,7 +16,7 @@ Covid-19 statistics tracking application with SwiftUI.
 
 
 ![main](https://user-images.githubusercontent.com/24472372/82071162-646d1d00-96de-11ea-94d8-99bc64857e58.gif)
-![map](https://user-images.githubusercontent.com/24472372/82071956-7e5b2f80-96df-11ea-87f1-5b4c85665daf.gif)
+<img width="238" alt="Screen Shot 2020-05-15 at 19 11 01" src="https://user-images.githubusercontent.com/24472372/82072144-d72ac800-96df-11ea-8464-9a399cc72e04.png">
 
 ### Pods
 
