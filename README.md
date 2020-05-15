@@ -13,8 +13,8 @@ Covid-19 statistics tracking application with SwiftUI.
 ### Screenshots
 ----
 ### Main / Map
-![](/Users/baris/Desktop/main.gif)
-![](/Users/baris/Desktop/map.gif)
+![](main.gif)
+![](map.gif)
 
 ### Pods
 
