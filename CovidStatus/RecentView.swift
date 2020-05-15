@@ -11,6 +11,8 @@ import SwiftUI
 struct RecentView: View {
     
     @ObservedObject var covidFetch = CovidFetchRequest()
+    @ObservedObject var test = CountryStatisticsFetchRequest()
+
     @State var searchText = ""
     @State var isSearchVisible = false
     
