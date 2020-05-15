@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		60059503246ECEC10059D0D9 /* CountryStatisticsFetchRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60059502246ECEC10059D0D9 /* CountryStatisticsFetchRequest.swift */; };
 		608323872463482800FFEE21 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 608323862463482800FFEE21 /* AppDelegate.swift */; };
 		608323892463482800FFEE21 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 608323882463482800FFEE21 /* SceneDelegate.swift */; };
 		6083238C2463482800FFEE21 /* CovidStatus.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6083238A2463482800FFEE21 /* CovidStatus.xcdatamodeld */; };
@@ -34,7 +33,6 @@
 /* Begin PBXFileReference section */
 		2A0C9E7193F21D63FDA48419 /* Pods-CovidStatus.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CovidStatus.debug.xcconfig"; path = "Target Support Files/Pods-CovidStatus/Pods-CovidStatus.debug.xcconfig"; sourceTree = "<group>"; };
 		5BDC5769DB78B0461FE5B9B9 /* Pods-CovidStatus.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CovidStatus.release.xcconfig"; path = "Target Support Files/Pods-CovidStatus/Pods-CovidStatus.release.xcconfig"; sourceTree = "<group>"; };
-		60059502246ECEC10059D0D9 /* CountryStatisticsFetchRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryStatisticsFetchRequest.swift; sourceTree = "<group>"; };
 		608323832463482800FFEE21 /* CovidStatus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CovidStatus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		608323862463482800FFEE21 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		608323882463482800FFEE21 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -133,7 +131,6 @@
 			children = (
 				608323A124635CA000FFEE21 /* Model.swift */,
 				6083239F24634F7500FFEE21 /* CovidFetchRequest.swift */,
-				60059502246ECEC10059D0D9 /* CountryStatisticsFetchRequest.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -283,7 +280,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				60059503246ECEC10059D0D9 /* CountryStatisticsFetchRequest.swift in Sources */,
 				60AD9F7824689E38001C3CFB /* CountryDetailRow.swift in Sources */,
 				60AD9F7E2468A8B7001C3CFB /* MapView.swift in Sources */,
 				608323A024634F7500FFEE21 /* CovidFetchRequest.swift in Sources */,
